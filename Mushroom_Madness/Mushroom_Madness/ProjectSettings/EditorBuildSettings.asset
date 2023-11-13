@@ -8,10 +8,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Wizard_platformer.unity
     guid: 209d4ae17ff52374dba45f36933fd5b6
   - enabled: 1
     path: Assets/Menu.unity
+    guid: 7d31d17759fee8248a05a0a5f8d347b9
+  - enabled: 1
+    path: Assets/Mushroom_Madness.unity
+    guid: 18cab1d3f7ca59149afe33a7da3fdaad
+  - enabled: 1
+    path: Assets/Death.unity
     guid: 3f317c64dbd946d42b84ea17b7214665
   m_configObjects: {}

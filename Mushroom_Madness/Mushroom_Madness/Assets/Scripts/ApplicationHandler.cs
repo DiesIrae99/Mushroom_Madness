@@ -9,8 +9,8 @@ public class ApplicationHandler : MonoBehaviour
 {
     public void ChangeScene()
     {
-        // Load the scene named "Wizard_platformer"
-        SceneManager.LoadSceneAsync("Wizard_platformer", LoadSceneMode.Single);
+        // Load the scene named "Mushroom_Madness"
+        SceneManager.LoadSceneAsync("Mushroom_Madness", LoadSceneMode.Single);
     }
 
     public void QuitGame()
